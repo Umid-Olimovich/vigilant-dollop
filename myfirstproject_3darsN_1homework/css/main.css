@@ -1,0 +1,55 @@
+/* ul uchun class */
+.ul1{
+  display: flex;
+   list-style: none;
+  padding-top: 20px;
+  margin: 20px;
+
+}
+
+/* div uchun class */
+.div1{
+  background-color: tomato;
+  padding-bottom: 20px;
+  text-align: center;
+  align-items:  center;
+  height: 500px;
+  width: 700px;
+  margin-left: 400px; width: 700px;
+  padding-top: 20px;
+  border-radius: 12px;
+
+}
+/*  pro class */
+.dark{ 
+  background-color: aliceblue;
+  border-radius: 8px;
+  
+  width: 150px;
+  margin: 20px;
+  margin-top: 140px;
+}
+/* premium class*/
+.sonlar{ 
+  text-align: center;background-color: antiquewhite;
+ 
+  border-radius: 8px;
+  width: 150px;
+  margin: 20px;
+  margin-top: 100px;
+}
+/* platinum class */
+.platinum{
+  background-color: aliceblue;
+  border-radius: 8px;
+  
+  width: 150px;
+  margin : 20px;
+  margin-top: 50px;
+ 
+}
+.styleButton{
+  background-color: rgb(230, 132, 13);
+  width: 300px;
+  text-align: center;
+}
